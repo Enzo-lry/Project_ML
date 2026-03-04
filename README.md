@@ -1,4 +1,5 @@
 Project Descriptions
+
 Project 1
 
 The objective of this project is to design a credit risk classifier capable of supporting decision-making in the approval of financial products (credit cards, personal loans, etc.). More specifically, the goal is to predict whether a client whose credit application is approved will be a good payer or will present a high risk of default.
