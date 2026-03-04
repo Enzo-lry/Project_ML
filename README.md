@@ -15,7 +15,7 @@ Results :
 
 - Accuracy: 0.6096
 
-_ Ranking: 5th out of 35 participants
+- Ranking: 5th out of 35 participants
 
 This project applies the main stages of a supervised machine learning pipeline: data exploration, feature engineering, model training, performance evaluation, and optimization in a competitive setting.
 
